@@ -1,0 +1,13 @@
+{
+    "name": "weui",
+    "description": "为微信 Web 服务量身设计",
+    "repos": "https://github.com/weui/weui.git",
+    "main": "style/weui.css",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.2.3",
+    "paths": {
+        "dist": "."
+    }
+}

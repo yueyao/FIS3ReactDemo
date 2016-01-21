@@ -1,0 +1,14 @@
+{
+  "dependencies": [
+    "github:fis-components/hammerjs@2.0.4",
+    "github:fis-components/zepto@v1.1.6",
+    "github:fis-components/superagent@1.6.1",
+    "github:fis-components/normalize.css@3.0.3",
+    "github:fis-components/weui@0.2.3",
+    "github:fis-components/react-weui@0.2.0",
+    "github:fis-components/react-dom@0.14.6",
+    "github:fis-components/react-router@1.0.3",
+    "github:fis-components/warning@2.1.0",
+    "github:fis-components/history@1.17.0"
+  ]
+}

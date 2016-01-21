@@ -1,0 +1,19 @@
+{
+    "name": "superagent",
+    "description": "elegant & feature rich browser / node HTTP with a fluent API",
+    "repos": "https://github.com/visionmedia/superagent.git",
+    "main": "./lib/client.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "component-emitter": "^1.1.2",
+        "reduce-component": "^1.0.1"
+    },
+    "paths": {
+        "./lib/node/index.js": "./lib/client.js",
+        "emitter": "component-emitter",
+        "reduce": "reduce-component",
+        "./test/support/server.js": "./test/support/blank.js"
+    },
+    "version": "1.6.1"
+}

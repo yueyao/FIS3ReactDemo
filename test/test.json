@@ -1,0 +1,9 @@
+{
+  "error": 0,
+  "message": "ok",
+  "data": {
+    "uname": "foo",
+    "uid": 1,
+    "test":2
+  }
+}
